@@ -1,0 +1,13 @@
+
+/*BEGIN PS4 Controller Styling*/
+
+
+.controller.ds4{
+   
+    background: url(base.png); 
+    height: 624px;
+    width: 840px;
+    background-repeat:no-repeat;
+}
+
+/*END P4S Controller Styling*/
