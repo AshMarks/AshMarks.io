@@ -5,6 +5,7 @@
    
     background: url(base.svg); 
     background-repeat:no-repeat;
+    background-position:1px 0px; 
 }
 
 
