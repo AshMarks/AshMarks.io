@@ -7,20 +7,5 @@
     background-repeat:no-repeat;
 }
 
-.ds4 .meta {
-    width: 43px;
-    height: 42px;
-    position: absolute;
-    left: 382px;
-    bottom: 240px;
-}
-.ds4 .meta.pressed {
-    background: url(https://gamepadviewer.com/ps4-assets/meta.svgz) no-repeat center;
-}
-.ds4 .back, .ds4 .start {
-    background: url(https://gamepadviewer.com/ps4-assets/start.svgz);
-    width: 28px;
-    height: 46px;
-    opacity: 0;
-}
+
 /*END PS4 Controller Styling*/
